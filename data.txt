@@ -1,5 +1,3 @@
 Name: Diego Barrera
 Age: 25
-Favorite folor: Green
-
-
+Favorite folor: Dark Green
